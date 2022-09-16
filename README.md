@@ -11,6 +11,7 @@ Welcome to Music Player a Media Player application,  beautiful and lightweight m
 # Installation
 
 ````
+Download Music Player and Unzip the Files.
 Download Android Studio, along with Gradle or Maven follow the Instructions online for Gradle or Maven Build
 then Download JDK and add to Environment and check in CMD using \"java -version\".
 Download SDK, NDK and Setup by adding them along with Gradle to Environment Variables in System Variables and Check if they are available in the System.
