@@ -74,4 +74,4 @@ If the project helped you, you can support me by giving ⭐️!
 # License
 
 Copyright © 2021 [KAYUNG](https://github.com/kayung-developer)<br />
-This project is [MIT](https://github.com/kayung-developer/Extreme-Bike-Stunt/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/kayung-developer/Music-Player/blob/main/LICENSE) licensed.
