@@ -18,6 +18,9 @@ Download SDK, NDK and Setup by adding them along with Gradle to Environment Vari
 Windows: * Run Gradle in Command Prompt using \"gradle -v\", and locate android SDK by running adb.exe, find the ADB.exe path and make CMD access the adb directly.
 Follow the below link to download.
 
+# Test
+Testable Apk File available
+
  Download Link ![Android IDE, Gradle, SDK ](https://developer.android.com/studio/releases)
 ````
 
