@@ -32,7 +32,7 @@ Supports Android OS only.
 
 
 
-# Contact Developer @ xipdevapps@gmail.com for purchase of Full Source code with no Bugs.
+# Contact Developer @ xipdevapps@gmail.com if found any Bugs in the program.
 
 # Developer
 * *PASCAL SAVIOUR*
