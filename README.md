@@ -137,7 +137,8 @@ Easy starting points are also reviewing [pull requests](https://github.com/kayun
 # Donation
 If you love what you see support Us.
 
-Bitcoin:<br> 13ktDTgUqmKXCdjNrP3VjEVEiP1NREvVM7
+Bitcoin:<br> 13ktDTgUqmKXCdjNrP3VjEVEiP1NREvVM7 <br>
+
 USDT (BEP20):<br> 0x93272fe8fbf202addc984fb5ee53e94f47d73edf
 
 
